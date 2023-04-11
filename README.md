@@ -1,7 +1,13 @@
 ## Oi, Eu sou o Raul Costa
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raulcjo&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raulcjo&layout=compact)](https://github.com/Raulcjo/github-readme-stats)
+📚 Estudante de Análise de sistemas - 3° Semestre<br>
+🌱 Estudando Java e JavaScript<br>
+💼 Atrás de um emprego na área de tecnológia<br>
+
+<div >
+<img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Raulcjo&show_icons=true">
+<img  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulcjo&layout=compact">
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
