@@ -8,7 +8,7 @@
 <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Raulcjo&show_icons=true">
 <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulcjo&layout=compact">
  </div>
-/*
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Raul-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -16,7 +16,7 @@
   <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
- */ 
+  
   ##
  
 <div> 
