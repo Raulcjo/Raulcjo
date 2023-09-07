@@ -1,6 +1,6 @@
 ## Oi, Eu sou o Raul Costa
 
-📚 Estudante de Análise de sistemas - 3° Semestre<br>
+📚 Estudante de Análise de sistemas - 4° Semestre<br>
 💼 Atrás de um emprego na área de tecnológia<br>
 
 <div >
