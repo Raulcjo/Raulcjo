@@ -1,7 +1,7 @@
 ## Oi, Eu sou o Raul Costa
 
 📚 Estudante de Análise de sistemas - 4° Semestre<br>
-💼 Programador Junior I<br>
+💼 A procura de um emprego na área<br>
 
 <div >
 <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Raulcjo&show_icons=true">
